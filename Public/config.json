@@ -1,0 +1,8 @@
+{
+  "API_KEY": "39e4dc94cda55957cb10b3c4c1bb468bcd113faf",
+  "API_URL": "http://solver.shopcloneroblox.com:5005/",
+  "autoOpen": true,
+  "autoSolve": true,
+  "enabled": true,
+  "solveDelayTime": 1000
+}
